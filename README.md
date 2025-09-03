@@ -1,30 +1,32 @@
-<img src = "banner.gif" width = "325px" align = "right">
 
-# 
-  <div id="badges">
-  <a href = "https://www.linkedin.com/in/paulo-andr%C3%A9-silva-oliveira-128575257">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+## Ola, eu sou o Paulo André!
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pauloandre-so&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pauloandre-so&show_icons=true"
+    media="(prefers-color-scheme: dark ), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pauloandre-so&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark " />
+</picture>
+  
+  
+</picture>
 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
-
-
-- Estudante de Engenharia de Software
-- Aprendendo algo sobre Front-end
-- Futuro Pentester 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:pauloandre_so@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-silva-oliveira-128575257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
